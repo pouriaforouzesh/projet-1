@@ -8,9 +8,8 @@ Le problème de la faim est complexe et peut avoir de multiples causes, différe
 
 Compétences évaluées:
 
-Récupérer des données à partir d'une source identifiée, 
-Effectuer des requêtes complexes en SQL,
-Maîtriser les bases de R ou Python,
-Utiliser une documentation technique,
-Utiliser les librairies spécialisées pour la Data Science,
-Appliquer l'algèbre relationnelle en R ou Python.
+- Récupérer des données à partir d'une source identifiée,
+- Effectuer des requêtes complexes en SQL, 
+- Maîtriser les bases de R ou Python, Utiliser une documentation technique, 
+- Utiliser les librairies spécialisées pour la Data Science, 
+- Appliquer l'algèbre relationnelle en R ou Python.
